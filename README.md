@@ -31,6 +31,7 @@
 - [缓存](#cache)
 - [日志](#log)
 - [监控](#monitor)
+- [微服务](#micro-server)
 - [博客](#blog)
  
  
@@ -62,6 +63,7 @@ PHP操作字符串&数组非常常见
 
 - [面向对象](https://segmentfault.com/a/1190000014430417) - PHP介绍面向对象编程文章：面向对象概念、基本实践、高级实战、PHP面向对象特殊实践
 
+- [面向对象设计原则](https://learnku.com/articles/16260/yes-thats-the-6-basic-principles-that-object-oriented-programming-design-patterns-need-to-follow)
 
 <h3 id="design-pattern">设计模式</h3>
 
@@ -168,6 +170,8 @@ PHP操作字符串&数组非常常见
 
 - [nginx 命令](http://blog.fpliu.com/it/software/Nginx/command)
 
+- [在线生成nginx配置文件](https://nginxconfig.io/)
+
 <h3 id="php">php</h3>
 
 - [linux下安装php环境](https://www.jianshu.com/p/79942f37b2dc)
@@ -200,6 +204,9 @@ PHP操作字符串&数组非常常见
 
 - [newrelic](https://newrelic.com/)
 
+<h2 id="micro-server">微服务</h2>
+
+- [微服务：从设计到部署](https://github.com/DocsHome/microservices)
 
 <h2 id="blog">博客</h2>
 

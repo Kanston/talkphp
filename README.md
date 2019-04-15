@@ -34,6 +34,7 @@
 - [监控](#monitor)
 - [微服务](#micro-server)
 - [博客](#blog)
+- [PPT分享](#ppt)
  
  
   
@@ -221,3 +222,7 @@ PHP操作字符串&数组非常常见
 - [阮一峰的博客](http://www.ruanyifeng.com) 
 
 
+<h2 id="ppt">ppt分享</h2>
+
+
+- [PHP开发者年会](https://github.com/isophp/ppts)

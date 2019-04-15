@@ -11,6 +11,7 @@
 - [中高阶](#middle)
     - [OOP](#class)
     - [设计模式](#design-pattern)
+- [HTTP](#http)    
 - [规范](#standard)  
 - [Web框架](#framework )
     - [symfony](#symfony)
@@ -71,6 +72,9 @@ PHP操作字符串&数组非常常见
 
 - [大话设计模式](https://github.com/flyingalex/design-patterns-by-php) - 大话设计模式-PHP版本
 
+<h2 id="http">HTTP</h2>
+
+- [HTTP协议原理和深入](https://segmentfault.com/a/1190000017514417)
 
 <h2 id="standard">规范</h2>
 
